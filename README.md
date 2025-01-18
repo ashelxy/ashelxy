@@ -11,7 +11,8 @@
 
 ---
 
-I'm an Entry-level Software Developer passionate about leveraging data analysis, image processing, and artificial intelligence to solve real-world problems. My work focuses on developing creative, user-centered solutions while continuously learning and exploring new technologies.
+I'm an Entry-level Software Developer passionate about leveraging data analysis, image processing, and artificial intelligence to solve real-world problems. 🕵🏼‍♀️
+My work focuses on developing creative, user-centered solutions while continuously learning and exploring new technologies. 👩🏼‍💻
 
 ---
 
