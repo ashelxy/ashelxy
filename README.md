@@ -3,7 +3,6 @@
 ## Henlo! My name is Ashe 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xinyeelee/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashelxy@outlook.com)
-[![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](skype:leexinyee?chat)
 [![Website (Coming soon!)](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]()
 [![CV (Coming soon!](https://img.shields.io/badge/CV-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white)]()
 
